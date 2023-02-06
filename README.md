@@ -3,7 +3,7 @@
 I'm Pranoy and I'm Learning Developer
 
 - Right now creating YouTube tutorials, discord bots, web apps.
-- YouTube - [Click Here](https://youtube.com/@CodwWithPranoy)
+- YouTube - [Click Here](https://www.youtube.com/@codewithpranoy)
 
 # My GitHub Stats 📊
 
